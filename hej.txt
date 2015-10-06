@@ -1,5 +1,1 @@
-Hejsan alla glada!
-
-En till rad.
-
-Ytterligare en rad.
+Hello World!
